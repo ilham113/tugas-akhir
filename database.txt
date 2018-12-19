@@ -1,0 +1,7 @@
+Nama: kontol
+tanggal_lahir: 11
+Alamat: manuk
+---Nama: lonte
+tanggal_lahir: 12
+Alamat: gang doli
+---
